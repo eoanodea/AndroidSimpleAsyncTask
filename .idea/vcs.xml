@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CA1TimeManagementApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IADTY3AndroidNotesApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IADTY3AndroidWebView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab4NotesApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PlainOlNotes3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleTimerApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-advanced-starter-apps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/animation-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sunflower" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/timesheet" vcs="Git" />
+  </component>
+</project>
